@@ -1,4 +1,5 @@
 # Steam Backlog Clear Manager 사용 가이드
+<img width="1471" height="815" alt="image" src="https://github.com/user-attachments/assets/ae48c5c0-2f16-4594-96ef-a266ffbd4008" />
 
 Steam 라이브러리 HTML 원본 데이터를 분석하여 미클리어 게임을 도출하고, 개인 맞춤형 우선순위와 진행 상황 추적용 단일 HTML 체크리스트 웹앱을 생성 및 활용하는 전체 가이드입니다.
 
